@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0.092127">
+<testcase classname="Calcular orden" name="Muliplicar items por precio" time="0.091942">
+<system-out><![CDATA[Dado la cantidad de item 8 y el precio del item 1...........................passed
+Cuando calculo el total.....................................................passed
+Entonces el resultado es 8..................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Calcular orden" name="Muliplicar items por precio" time="0.000185">
+<system-out><![CDATA[Dado la cantidad de item 10 y el precio del item 20.........................passed
+Cuando calculo el total.....................................................passed
+Entonces el resultado es 200................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
